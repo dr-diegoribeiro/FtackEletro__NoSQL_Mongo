@@ -1,0 +1,24 @@
+.img-produto{
+    width: 80%;
+}
+
+div>p {
+    font-size: 12pt;
+}
+
+.preco-prod {
+    text-decoration: line-through;
+    font-size: 12pt;
+    color: rgb(218, 53, 53);
+}
+
+.precofinal-prod {
+    font-size: 12pt;
+    color: rgb(83, 138, 255);
+}
+
+.box{
+    padding: 15px;
+    box-shadow: 3px 3px 3px rgba(255, 192, 203, 0.438);
+    margin: 10px;
+}
